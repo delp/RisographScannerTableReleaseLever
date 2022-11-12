@@ -1,0 +1,1 @@
+Scanner Table Release Lever for RN2130UI model Risograph.
