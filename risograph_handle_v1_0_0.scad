@@ -17,4 +17,4 @@ difference(){
     }  
 }
 
-rotate([90,0,90]) translate([depth-6,4,0]) cylinder(r=10,h=width);
+rotate([90,0,90]) translate([depth-6,4,0]) cylinder(r=8,h=width);
